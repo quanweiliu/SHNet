@@ -1,8 +1,9 @@
 # SHNet
-release Multi-modal synthetic dataset
+
+For the complete code, please refer to PatchwiseClsFra (https://github.com/quanweiliu/PatchwiseClsFra)
 
 
-I hope this synthetic dataset will be useful for the oil spill detection community.
+Here we release Multi-modal synthetic dataset. I hope this synthetic dataset will be useful for the oil spill detection community.
 
 The whole dataset can be found at: 
 
